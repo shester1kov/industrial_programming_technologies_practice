@@ -9,6 +9,6 @@
 # PUT запрос, обновление существующего товара
 ![put product](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/put%20product.png)
 ### Проверка изменения товара\
-![put product]()
+![get put product after](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/get%20put%20%20product%20after.png)
 # DELETE запрос, удавление товара
 ![delete product]()
