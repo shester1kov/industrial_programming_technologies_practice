@@ -11,4 +11,7 @@
 ### Проверка изменения товара\
 ![get put product after](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/get%20put%20%20product%20after.png)
 # DELETE запрос, удавление товара
-![delete product]()
+![delete product](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/delete%20product.png)
+### Проверка отсутствия товара 
+![get delete product]()
+
