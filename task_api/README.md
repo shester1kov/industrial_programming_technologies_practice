@@ -1,6 +1,6 @@
 # Практическая работа, создание API
 ## Шестериков Дмитрий Александрович, ЭФМО-01-24
-Файл с кодом в папке api или по ссылке 
+Файл с кодом в папке api или по ссылке!ссылке[](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/api/main.go) 
 
 # GET запрос, получение всех товаров
 ![get all products](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/get%20all%20products.png)
