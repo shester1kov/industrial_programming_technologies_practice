@@ -1,3 +1,7 @@
+# Практическая работа, создание API
+## Шестериков Дмитрий Александрович, ЭФМО-01-24
+Файл с кодом в папке api или по ссылке 
+
 # GET запрос, получение всех товаров
 ![get all products](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/get%20all%20products.png)
 # GET запрос, получение товара по id
@@ -13,5 +17,5 @@
 # DELETE запрос, удавление товара
 ![delete product](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/delete%20product.png)
 ### Проверка отсутствия товара 
-![get delete product]()
+![get delete product](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/get%20delete%20product.png)
 
