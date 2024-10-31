@@ -4,6 +4,7 @@
 ![get product by id](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/get%20product%20by%20id.png)
 ## POST запрос, создание нового товара
 ![post product](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/post%20product.png)
+![get post product]()
 ## PUT запрос, обновление существующего товара
 ![put product]()
 ## DELETE запрос, удавление товара
