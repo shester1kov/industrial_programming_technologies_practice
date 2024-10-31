@@ -4,9 +4,11 @@
 ![get product by id](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/get%20product%20by%20id.png)
 # POST запрос, создание нового товара
 ![post product](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/post%20product.png)
-### Проверка наличия нового товара в списке
+### Проверка наличия нового товара
 ![get post product](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/get%20post%20product.png)
 # PUT запрос, обновление существующего товара
 ![put product](https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/put%20product.png)
+### Проверка изменения товара\
+![put product]()
 # DELETE запрос, удавление товара
 ![delete product]()
