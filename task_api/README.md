@@ -1,4 +1,4 @@
-# Практическая работа, создание API
+# Практическая работа 6, создание API
 ## Шестериков Дмитрий Александрович, ЭФМО-01-24
 Файл с кодом в папке api или по ссылке (https://github.com/shester1kov/industrial_programming_technologies_practice/blob/main/task_api/api/main.go) 
 
