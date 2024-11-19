@@ -10,6 +10,43 @@
 ### Если вы попытаетесь зарегистрировать уже существующего пользователя, ответ будет следующим:
 ![image](https://github.com/user-attachments/assets/3b4abed8-0e11-46b9-8578-9c42add62e08)
 
+## 2. Логин (получение токена)
+### Запрос
+### Метод: POST
+![image](https://github.com/user-attachments/assets/bd79c031-db0a-45d1-adff-22b8e7b437b9)
+
+### Если логин не прошел (например, неверный пароль), ответ будет следующим:
+![image](https://github.com/user-attachments/assets/74416bd3-cfb3-491a-886b-e679dc054352)
+
+## 3. Доступ к защищенным маршрутам
+### Запрос
+### Метод: GET
+### Заголовки: В заголовке Authorization нужно передать действующий JWT токен
+![image](https://github.com/user-attachments/assets/f3052498-4c98-4147-bd1f-219435919c9c)
+
+## 4. Регистрация пользователя с ролью admin
+### Запрос:
+### Метод: POST
+![image](https://github.com/user-attachments/assets/0e8a6e46-3663-41f4-852a-93e1640861ad)
+
+## 5. Логин для получения токена (JWT) для admin
+### Запрос:
+### Метод: POST
+![image](https://github.com/user-attachments/assets/830f96f6-cc6d-4f21-9b92-d7bf22840b27)
+
+## 6. Доступ к защищенному ресурсу (только для роли admin)
+### Теперь, когда у вас есть токен с ролью admin, вы можете получить доступ к защищенному ресурсу, который доступен только администраторам.
+### Запрос:
+### Метод: DELETE
+![image](https://github.com/user-attachments/assets/e2d9a1ae-8733-4b24-9fda-127a61da501e)
+
+## 7. Если вы попробуете доступ с ролью user
+### Предположим, у вас есть пользователь с ролью user, и вы попытаетесь получить доступ к этому же защищенному ресурсу, который доступен только для администраторов.
+### Запрос:
+### Метод: DELETE
+![image](https://github.com/user-attachments/assets/966acb04-b29a-4d02-83b2-3d7329c046c2)
+
+
 
 ```go
 package main
