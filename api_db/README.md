@@ -1,7 +1,7 @@
 # Интеграция REST API с базой данных (PostgreSQL) на Go
 
 
-'''go
+```go
 package main
 
 
@@ -421,13 +421,12 @@ func deleteCategory(c *gin.Context) {
 	}
 	c.JSON(http.StatusOK, gin.H{"message": "category deleted"})
 }
+```
 
 
 
-'''
 
-
-'''sql
+```sql
 -- Создаём таблицу категорий
 CREATE TABLE categories (
     id BIGINT PRIMARY KEY,        -- Уникальный идентификатор категории
@@ -495,4 +494,4 @@ VALUES
 (24, 'Предтренировочный комплекс', 'Энергия и концентрация для тренировок.', 5),
 (25, 'Коллаген', 'Поддержка здоровья суставов и кожи.', 5);
 
-'''
+```
