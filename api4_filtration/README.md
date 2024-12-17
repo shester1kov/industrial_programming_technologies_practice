@@ -20,6 +20,8 @@
 ### 6. GET ../products?limit=5&sort=name&order=desc
 ![image](https://github.com/user-attachments/assets/0c3560b7-c1c0-42c1-8862-50d7123d8fdf)
 
+### 7. GET ../products?name=Протеиновые батончики
+![image](https://github.com/user-attachments/assets/7979015a-bc25-4c00-8763-a3bd5685d50e)
 
 ```go
 package main
