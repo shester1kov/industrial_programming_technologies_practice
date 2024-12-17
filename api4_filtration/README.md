@@ -17,6 +17,8 @@
 ### 5. GET ../products?limit=5&sort=name
 ![image](https://github.com/user-attachments/assets/cb13c363-32a4-48ab-9dbc-439cf59341cd)
 
+### 6. GET ../products?limit=5&sort=name&order=desc
+![image](https://github.com/user-attachments/assets/0c3560b7-c1c0-42c1-8862-50d7123d8fdf)
 
 
 ```go
