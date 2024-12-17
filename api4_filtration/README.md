@@ -1,6 +1,9 @@
 # Практическая работа API4, Шестериков Дмитрий, ЭФМО-01-24
 # Тема: Обработка ошибок, пагинация и фильтрация данных в REST API
 
+## Примеры запросов
+1. GET ../products
+![image](https://github.com/user-attachments/assets/9e8cce25-1893-435d-8d2a-d5a0337a5816)
 ```go
 package main
 
