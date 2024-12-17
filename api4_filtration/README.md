@@ -7,6 +7,12 @@
 
 ### 2. GET ../products?limit=5
 ![image](https://github.com/user-attachments/assets/af918814-8a51-40fa-aa7c-a421c538626f)
+
+### 3. GET ../products?limit=5&page=2
+![image](https://github.com/user-attachments/assets/23f05806-d848-448e-979f-e19f8e0b6010)
+
+
+
 ```go
 package main
 
