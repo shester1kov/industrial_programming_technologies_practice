@@ -14,6 +14,11 @@
 ### 4. GET ../products?category_id=4
 ![image](https://github.com/user-attachments/assets/fb6c2c35-1bec-494e-9d0a-bfdbfdbb3618)
 
+### 5. GET ../products?limit=5&sort=name
+![image](https://github.com/user-attachments/assets/cb13c363-32a4-48ab-9dbc-439cf59341cd)
+
+
+
 ```go
 package main
 
