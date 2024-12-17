@@ -2,8 +2,11 @@
 # Тема: Обработка ошибок, пагинация и фильтрация данных в REST API
 
 ## Примеры запросов
-1. GET ../products
+### 1. GET ../products
 ![image](https://github.com/user-attachments/assets/9e8cce25-1893-435d-8d2a-d5a0337a5816)
+
+### 2. GET ../products?limit=5
+![image](https://github.com/user-attachments/assets/af918814-8a51-40fa-aa7c-a421c538626f)
 ```go
 package main
 
